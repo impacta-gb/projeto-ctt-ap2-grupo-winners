@@ -1,1 +1,26 @@
+[project]
+site_name = "Documentacao da Linguagem Go"
+site_url = "https://impacta-gb.github.io/projeto-ctt-ap2-grupo-winners/"
+docs_dir = "docs"
+site_dir = "site"
+
+nav = [
+{ "Inicio" ="index.md" },
+{ "Introducao e Instalacao" = "introducao-instalacao.md" },
+{ "Sintaxe Basica e Variaveis" = "sintaxe-variaveis.md" },
+{ "Estruturas de Controle" = "estruturas-controle.md" },
+{ "Arrays, Slices e Maps" ="arrays-slices-maps.md" },
+{ "Structs e Metodos" = "structs-metodos.md" },
+{ "Tratamento de Erros" = "tratamento-erros.md" },
+{ "Goroutines" ="goroutines.md" },
+{"Channels"="channels.md" },
+{ "Go Modules" = "go-modules.md" },
+{ "Testes Automatizados" = "testes.md" }
+
+[project.markdown_extensions.tables]
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.pymdownx.highlight]
+anchor_linenums = true
+pygments_lang_class = true
 
