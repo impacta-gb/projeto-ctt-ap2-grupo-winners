@@ -4,11 +4,11 @@ Projeto desenvolvido para a AP2 da disciplina CTT.
 
 ## Integrantes
 
-- Integrante 1: Nome completo
-- Integrante 2: Nome completo
-- Integrante 3: Nome completo
-- Integrante 4: Nome completo
-- Integrante 5: Nome completo
+- Integrante 1: João Fogaça
+- Integrante 2: Luis Felipe
+- Integrante 3: Enzo Zapparolli
+- Integrante 4: Romeo Brito
+- Integrante 5: Gustavo Calado
 
 ## Objetivo
 
@@ -46,11 +46,11 @@ A documentacao criada aborda os seguintes temas:
 
 | Integrante | Responsabilidades |
 | --- | --- |
-| Integrante 1 | Setup inicial, Introducao e Instalacao, Go Modules |
-| Integrante 2 | Configuracao da navegacao, Sintaxe e Variaveis, Testes |
-| Integrante 3 | Validacao no GitHub Actions, Estruturas de Controle, Arrays/Slices/Maps |
-| Integrante 4 | Build e Deploy no GitHub Actions, Structs e Metodos, Tratamento de Erros |
-| Integrante 5 | GitHub Pages, README final, Goroutines e Channels |
+| João Fogaça | Setup inicial, Introducao e Instalacao, Go Modules |
+| Luis Felipe | Configuracao da navegacao, Sintaxe e Variaveis, Testes |
+| Enzo Zapparolli | Validacao no GitHub Actions, Estruturas de Controle, Arrays/Slices/Maps |
+| Romeo Brito | Build e Deploy no GitHub Actions, Structs e Metodos, Tratamento de Erros |
+| Gustavo Calado | GitHub Pages, README final, Goroutines e Channels |
 
 ## Fluxo de trabalho colaborativo
 
