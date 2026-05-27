@@ -7,7 +7,7 @@ Projeto desenvolvido para a AP2 da disciplina CTT.
 - Integrante 1: João Fogaça RA:(2500048)
 - Integrante 2: Luis Felipe RA:(2501173)
 - Integrante 3: Enzo Zapparolli RA: (2500187)
-- Integrante 4: Romeo Brito Ra: (2501494)
+- Integrante 4: Romeo Brito RA: (2501494)
 - Integrante 5: Gustavo Calado RA: (2501613)
 
 ## Objetivo
